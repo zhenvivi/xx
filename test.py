@@ -5,4 +5,4 @@ if none:
 else:
     print("干啥啦")
 
-
+print("古道西分手吗")
